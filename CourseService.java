@@ -1,0 +1,14 @@
+package com.example.demo;
+
+import com.example.testing_001.model.Course;
+import java.util.List;
+
+public interface CourseService {
+	List<Course> getAllCourses();
+	void saveCourse(Course course);
+	Course getCourseById(long id);
+	void deleteCourseById(long id);
+	Page<Course> findPaginated(int pageNum, int pageSize,
+							String sortField,
+							String sortDirection);
+}
