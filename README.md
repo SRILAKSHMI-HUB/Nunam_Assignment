@@ -23,6 +23,7 @@ important code is application.properties with localhost port
 
 step8
 run the codes by right clicking and choose spring boot application
+[codes includes pom.xml,applicatiom.properties,Course.java,CourseController.java,CourseRepository.java,CourseService.java,CourseServiceImpl.java]
 
 step9
 to get the dashboard, html files are reqired
