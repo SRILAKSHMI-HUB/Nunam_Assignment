@@ -36,6 +36,7 @@ step11
 the dashboard gets visible
 
 UNIT TEST
+
 step12
 write the skeleton of unit code
 
@@ -52,6 +53,7 @@ step16
 see the unit test coverage percentage
 
 AUTHENTICATION
+
 step17
 code the pom.xml file
 
